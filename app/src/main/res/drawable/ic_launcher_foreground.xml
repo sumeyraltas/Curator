@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Art Frame Outline -->
+    <path
+        android:fillColor="#FFDADB"
+        android:pathData="M30,26 h48 v56 h-48 z M34,30 v48 h40 v-48 z" />
+    <!-- Inner Painting Canvas Element (Mountains / Sun Art Motif) -->
+    <path
+        android:fillColor="#FFB2B8"
+        android:pathData="M38,68 L48,54 L56,62 L62,56 L70,68 z" />
+    <path
+        android:fillColor="#FFB2B8"
+        android:pathData="M44,42 A4,4 0 1,0 44,34 A4,4 0 1,0 44,42 z" />
+</vector>

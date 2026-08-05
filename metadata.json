@@ -1,0 +1,6 @@
+{
+  "name": "Curator - Art History & Digital Museum",
+  "description": "An elegant digital art gallery allowing users to explore famous artworks, learn about artists, and view high-resolution paintings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
