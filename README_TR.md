@@ -60,7 +60,7 @@ Kullanıcılar her gün özenle seçilen **Günün Başyapıtı** ile tanışabi
 
 |                4. Küratörlü Galeri Akışı                 | 5. Kişisel Koleksiyon & Notlar | 6. Arama ve Filtre Çipleri | 7. Akıma Göre Listeleme |
 |:--------------------------------------------------------:| :---: | :---: | :---: |
-| <img width="200" src="https://github.com/user-attachments/assets/8b773b00-362e-4d5e-915d-189d10678cbe" /> | <img width="200"  src="https://github.com/user-attachments/assets/b3f39fbd-4b0e-4945-aac0-cfa9f12db4f1" /> | <img width="200" src="https://github.com/user-attachments/assets/11b69198-4e21-4ef5-bd6c-dff4397c8096" /> | <img width="200" src="https://github.com/user-attachments/assets/32039291-05b9-4be4-bac9-adb01a47189b" /> | 
+| <img width="190" src="https://github.com/user-attachments/assets/8b773b00-362e-4d5e-915d-189d10678cbe" /> | <img width="190"  src="https://github.com/user-attachments/assets/b3f39fbd-4b0e-4945-aac0-cfa9f12db4f1" /> | <img width="190" src="https://github.com/user-attachments/assets/11b69198-4e21-4ef5-bd6c-dff4397c8096" /> | <img width="190" src="https://github.com/user-attachments/assets/32039291-05b9-4be4-bac9-adb01a47189b" /> | 
 |    *Yüksek çözünürlüklü eser kartlarıyla sonsuz akış*    | *Favoriye eklenen eserler, not ekleme ve düzenleme* | *Arama çubuğu ve hızlı filtreleme butonları* | *Empresyonizm ve Barok gibi akımlara göre filtreleme* |
 
 ---
