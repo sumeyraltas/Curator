@@ -65,7 +65,7 @@ Users can discover the handpicked **Masterpiece of the Day**, explore world-famo
 
 | 4. Curated Gallery Stream | 5. Personal Collection & Notes | 6. Search & Filter Chips | 7. Category Discovery |
 | :---: | :---: | :---: | :---: |
-| <img width="210" src="https://github.com/user-attachments/assets/8b773b00-362e-4d5e-915d-189d10678cbe" /> | <img width="210"  src="https://github.com/user-attachments/assets/b3f39fbd-4b0e-4945-aac0-cfa9f12db4f1" /> | <img width="210" src="https://github.com/user-attachments/assets/11b69198-4e21-4ef5-bd6c-dff4397c8096" /> | <img width="210" src="https://github.com/user-attachments/assets/32039291-05b9-4be4-bac9-adb01a47189b" /> | 
+| <img width="190" src="https://github.com/user-attachments/assets/8b773b00-362e-4d5e-915d-189d10678cbe" /> | <img width="190"  src="https://github.com/user-attachments/assets/b3f39fbd-4b0e-4945-aac0-cfa9f12db4f1" /> | <img width="190" src="https://github.com/user-attachments/assets/11b69198-4e21-4ef5-bd6c-dff4397c8096" /> | <img width="190" src="https://github.com/user-attachments/assets/32039291-05b9-4be4-bac9-adb01a47189b" /> | 
 | *Curated visual stream of historical masterpieces* | *Saved artworks with personal notes, edit & delete* | *Instant search by keyword and topic tags* | *Trending curations filtered by art movement* |
 
 ---
