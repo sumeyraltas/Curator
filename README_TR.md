@@ -58,12 +58,12 @@ Kullanıcılar her gün özenle seçilen **Günün Başyapıtı** ile tanışabi
 
 |               1. Keşfet ve Günün Başyapıtı               | 2. Eser Detayları & Bilgiler | 3. Sanat Akımları ve Müzeler |
 |:--------------------------------------------------------:| :---: | :---: |
-| <img src="Screenshot_20260908_141920.png" width="240" /> | <img src="screenshots/Screenshot_20260908_141929.png" width="240" /> | <img src="screenshots/Screenshot_20260908_141948.png" width="240" /> |
+| <img width="240" src="https://github.com/user-attachments/assets/b21c7be2-ad21-48c3-8901-1f2e13ac32ec" /> | <img width="240" src="https://github.com/user-attachments/assets/9fc3ee79-dd87-44f8-a8dd-5a7e6c44c9f7" /> | <img width="240" src="https://github.com/user-attachments/assets/190c3825-a7f1-45f7-a934-f1079e8202c4" /> | 
 | *Curator ana sayfası: "Yıldızlı Gece" ve sanat akımları* | *Eser detay kartı (Yıl, Teknik, Ebatlar, Müze ve Tarihçe)* | *Sanat akımı kartları ve dünyaca ünlü müze rozetleri* |
 
 |                4. Küratörlü Galeri Akışı                 | 5. Kişisel Koleksiyon & Notlar | 6. Arama ve Filtre Çipleri | 7. Akıma Göre Listeleme |
 |:--------------------------------------------------------:| :---: | :---: | :---: |
-| <img src="Screenshot_20260908_141953.png" width="220" /> | <img src="screenshots/Screenshot_20260908_142015.png" width="220" /> | <img src="screenshots/Screenshot_20260908_142026.png" width="220" /> | <img src="screenshots/Screenshot_20260908_142039.png" width="220" /> |
+| <img width="200" src="https://github.com/user-attachments/assets/8b773b00-362e-4d5e-915d-189d10678cbe" /> | <img width="200"  src="https://github.com/user-attachments/assets/b3f39fbd-4b0e-4945-aac0-cfa9f12db4f1" /> | <img width="200" src="https://github.com/user-attachments/assets/11b69198-4e21-4ef5-bd6c-dff4397c8096" /> | <img width="200" src="https://github.com/user-attachments/assets/32039291-05b9-4be4-bac9-adb01a47189b" /> | 
 |    *Yüksek çözünürlüklü eser kartlarıyla sonsuz akış*    | *Favoriye eklenen eserler, not ekleme ve düzenleme* | *Arama çubuğu ve hızlı filtreleme butonları* | *Empresyonizm ve Barok gibi akımlara göre filtreleme* |
 
 ---
