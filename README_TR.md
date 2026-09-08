@@ -1,8 +1,5 @@
 # 🏛️ Curator — Sanat Tarihi ve Dijital Müze
 
-<p align="center">
-  <img src="screenshots/Screenshot_20260908_141920.png" alt="Curator Keşfet Ekranı" width="280" />
-</p>
 
 <p align="center">
   <strong>Dünyaca ünlü başyapıtları, sanat akımlarını ve yapay zekâ destekli küratör analizlerini parmaklarınızın ucuna getiren modern bir dijital sanat müzesi uygulaması.</strong>
