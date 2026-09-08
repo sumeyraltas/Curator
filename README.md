@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#-english"><strong>English</strong></a> •
-  <a href="#-türkçe"><strong>Türkçe</strong></a>
+  <a href="README_TR.md"><strong>Türkçe</strong></a>
 </p>
 
 <p align="center">
