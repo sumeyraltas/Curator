@@ -144,7 +144,7 @@ The application adheres to modern Android architectural principles: **MVVM (Mode
 #### Installation & Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/curator-android.git
+   git clone <repo link>
    cd curator-android
    ```
 2. Open the project in Android Studio.
