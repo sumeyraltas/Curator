@@ -118,7 +118,7 @@ Uygulama, Google tarafından önerilen modern Android mimarisi ilkelerine (**MVV
 ### Adım Adım Kurulum
 1. Projeyi klonlayın veya indirin:
    ```bash
-   git clone https://github.com/kullanici-adiniz/curator-android.git
+   git clone <repo link>
    cd curator-android
    ```
 2. Android Studio'yu açıp projeyi içeri aktarın (**Open**).
